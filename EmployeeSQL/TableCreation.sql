@@ -53,5 +53,3 @@ CREATE TABLE dept_manager(
     REFERENCES employees (emp_no)
 );
 
-
--- SELECT * FROM departments;
